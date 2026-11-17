@@ -1,0 +1,17 @@
+{
+  "name": "8bit-platformer",
+  "version": "1.0.0",
+  "description": "A simple 8‑bit styled 2‑D platformer built with Phaser 3.",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve ."
+  },
+  "dependencies": {
+    "phaser": "^3.60.0"
+  },
+  "devDependencies": {
+    "serve": "^14.2.3"
+  },
+  "author": "",
+  "license": "MIT"
+}
